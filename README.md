@@ -1,5 +1,10 @@
 # NeuroCluster
 ## Improved IFCM for MR Image Segmentation
+[![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)](
+https://github.com/albinjm/NeuroCluster/blob/main/LICENSE)
+
+![](https://albinjm.github.io/assets/img/NeuroCluster.gif)
+
 
 NeuroCluster is an advanced image segmentation toolkit leveraging the Improved Intuitionistic Fuzzy C-Means (IIFCM) algorithm, specifically tailored for magnetic resonance (MR) image analysis. This toolkit enables precise segmentation of MR images into distinct regions, enhancing the ability to identify and analyze various brain structures based on pixel intensity and color values.
 
